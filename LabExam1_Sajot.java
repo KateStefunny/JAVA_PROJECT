@@ -133,6 +133,6 @@ public class LabExam1_Sajot {
                                                  consumption_charge,environmental_fee, payment_method,payment_fee,total_bill);
         
         System.out.print(billing_statement);
-        
+         System.out.print(billing_statement);
     }
 }
